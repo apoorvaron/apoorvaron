@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Development.
 - 🔭 I’m a Information Technology Student.
 - 🤔 Passionate about Programming.
-- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/apoorv-aron-742882212) | <a href = "mailto:apoorv.aron02@example.com">Mail</a>
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/apoorv-aron-742882212) | <a href = "mailto:apoorv.aron02@gmail.com">Mail</a>
 - ⚡ #Developer #Innovator #Programmer #Software
 
 
