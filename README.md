@@ -1,8 +1,8 @@
 ## 👋 Hi, I’m @apoorvaron 
 - 👀 I’m interested in Software Development.
-- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/apoorv-aron-742882212) | <a href = "mailto:apoorv.aron02@example.com">Mail</a>
 - 🔭 I’m a Information Technology Student.
 - 🤔 Passionate about Programming.
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/apoorv-aron-742882212) | <a href = "mailto:apoorv.aron02@example.com">Mail</a>
 - ⚡ #Developer #Innovation #Programmer #Software
 
 
